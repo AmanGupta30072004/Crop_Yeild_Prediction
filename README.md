@@ -1,4 +1,5 @@
 # Crop Yield Prediction
+![Dashboard](images/image.png)
 
 ## 📌 Overview
 This project predicts crop yield based on factors such as rainfall, pesticide usage, temperature, and geographical region. The model helps in making informed agricultural decisions by analyzing historical data and forecasting future yields.
